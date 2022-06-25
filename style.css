@@ -1,0 +1,45 @@
+.heading {
+    width:100%;
+    text-align:left;
+}
+.heading h3 {
+    display:inline;
+}
+.heading button {
+    float:right;
+    border: 1px solid white;
+}
+#startbtn, #status, #restartbtn {
+    font-size:22px;
+    margin-top:10px;
+}
+.modal-dialog {
+    width:80%;
+}
+.close {
+    color:black;
+}
+#insh4 {
+    color:black;
+}
+.modal-body {
+    color:black;
+}
+#myModal {
+    background-color: white;
+}
+canvas {
+    border: 5px solid white;
+    box-shadow: 5px 5px 5px grey;
+    border-radius:20px;
+    margin-top:30px;
+}
+.footer {
+    position:fixed;
+    color:grey;
+    bottom:0;
+    width:100%;
+    background-color: white;
+    line-height: 3;
+    text-align: center;
+}
